@@ -1,0 +1,10 @@
+twitchio>=2.6.0
+openai>=1.0.0
+elevenlabs>=0.2.26
+python-dotenv>=1.0.0
+loguru>=0.7.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+asyncio>=3.4.3
+python-socketio==5.10.0
+websockets==12.0
